@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi There, I'm Tebogo Mkhize
+##
+* I'm a Software Developer with a passion for learning and applying what I learn in the pursuit of knowledge, innovation and creating a better society.
+* I'm interested in Full-Stack Development with a particular passion for AI, Backend Development and DevOps.
+
+* How to Contact Me:
+  * Email: tebogomkhize01@gmail.com
+  * [LinkedIn](linkedin.com/in/tebogo-mkhize) 
 
 <!--
 **TEMKH128/TEMKH128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
