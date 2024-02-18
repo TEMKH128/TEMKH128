@@ -5,7 +5,7 @@
 
 * How to Contact Me:
   * Email: tebogomkhize01@gmail.com
-  * [LinkedIn](linkedin.com/in/tebogo-mkhize) 
+  * [LinkedIn](https://www.linkedin.com/in/tebogo-mkhize) 
 
 <!--
 **TEMKH128/TEMKH128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
