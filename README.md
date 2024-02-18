@@ -2,7 +2,7 @@
 ##
 * I'm a Software Developer with a passion for learning and applying what I learn in the pursuit of knowledge, innovation and creating a better society.
 * I'm interested in Full-Stack Development with a particular passion for AI, Backend Development and DevOps.
-
+###
 * How to Contact Me:
   * Email: tebogomkhize01@gmail.com
   * [LinkedIn](https://www.linkedin.com/in/tebogo-mkhize) 
