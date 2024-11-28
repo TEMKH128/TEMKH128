@@ -4,7 +4,7 @@
 * I'm interested in Full-Stack Development with a particular passion for AI, Backend Development and DevOps.
 ###
 * How to Contact Me:
-  * Email: tebogomkhize01@gmail.com
+  * Email: tebogomkhize25@gmail.com
   * [LinkedIn](https://www.linkedin.com/in/tebogo-mkhize) 
 
 <!--
